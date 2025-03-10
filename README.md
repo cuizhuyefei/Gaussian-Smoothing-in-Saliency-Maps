@@ -10,8 +10,10 @@
 
 If you find this code useful, please consider citing our paper:
 
+```bibtex
 @inproceedings{yetrade,
   title={On the Trade-Off between Stability and Fidelity of Gaussian-Smoothed Saliency Maps},
   author={Ye, Zhuorui and Farnia, Farzan},
   booktitle={The 28th International Conference on Artificial Intelligence and Statistics}
 }
+```
